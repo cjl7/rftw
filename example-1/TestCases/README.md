@@ -1,12 +1,29 @@
 # Test Case
 
-Test Cases should cover whatever you need to sleep well at night (prove that the UseCase or Requirements has been met). 
-Normally I do a coverage document mapping all Requirements and UseCases to a TestCase.
+Test Cases provides more information to the Developers/System engineers working with the system. 
+Together with the Requirements and Use Cases they should be enough for the Development team to understand without
+interpretation what we want.
 
-There might be overlap, but hey it's an imperfect world...
+## Test Case possibilities
+Usability testing will provide a fairly simple way of evaluating the solution. 
 
-## Test cases are written by technical staff (developer)
-This should be a technical bits and bytes description on how to prove the UseCase or Requirement. 
+If the User (Actor) can do their task, the application works. Obviously we need to dress our test cases with other
+scenarios as well, like performance or conformance to regulations.
+
+```
+tip: There are no hard rules, if you need to write a Test Case that isn't in the below list then do so!
+The objective is to "Get What We Want"
+```
+
+Here are 5 ways to test for quality:
+1. Reliability test
+2. Performance test `example: T2`
+3. Supportability test
+4. Functional test
+5. Usability test `example: T1`
+
+Tests 1-4 are mostly done by Developers/QA/Systems administrators and is out of sight for normal users, and the Test Case 
+itself will have to be written by the technical staff
 
 ## Coverage Map
 
