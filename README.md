@@ -23,7 +23,7 @@ There is a 4-step process for this to be successful.
 
 This is the high level idea on what the project is going to achieve. Per
 definition this is not a technical description, but rather an idea, vision in
-plain English (or whatever language you speek).
+plain English (or whatever language you speak).
 
 It can be as simple as _I'm going to fly to the moon_
 
